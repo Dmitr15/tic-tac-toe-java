@@ -5,9 +5,9 @@
 #### Features of this game: the player can skip a move. The same mark cannot be repeated diagonally.
 
 ## How to use
-### 1) To start playing: File -> New
-### 2) To skip a turn, that is, to pass the turn to another player without making your own: File -> Skip
-### 3) Exit game: File -> Exit
+#### 1) To start playing: File -> New
+#### 2) To skip a turn, that is, to pass the turn to another player without making your own: File -> Skip
+#### 3) Exit game: File -> Exit
 
 
 ### The project was completed as a laboratory work on the subject of OOP
